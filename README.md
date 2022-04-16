@@ -1,18 +1,20 @@
-<img src="https://public-link.oss-cn-shenzhen.aliyuncs.com/mcsm_picture/logo.png" alt="MCSManager 图标.png" width="500px" />
+<img src="./docs/MCSMPLUS-LIGHT.png" alt="MCSManager 图标.png" width="500px" />
 
 <br />
 
 [![Status](https://img.shields.io/badge/npm-v6.14.15-blue.svg)](https://www.npmjs.com/)
 [![Status](https://img.shields.io/badge/node-v14.17.6-blue.svg)](https://nodejs.org/en/download/)
-[![Status](https://img.shields.io/badge/License-AGPL-red.svg)](https://github.com/Suwings/MCSManager)
+[![Status](https://img.shields.io/badge/License-AGPL-red.svg)](https://github.com/MCSMPLUS)
 
-[官方网站](http://mcsmanager.com/) | [使用文档](https://docs.mcsmanager.com/) | [团队主页](https://github.com/MCSManager) | [面板端项目](https://github.com/MCSManager/MCSManager) | [网页前端项目](https://github.com/MCSManager/UI) | [守护进程项目](https://github.com/MCSManager/Daemon)
+[官方网站](http://mcsmplus.vercel.app/) | [使用文档](https://docs.mcsmanager.com/) | [团队主页](https://github.com/MCSMPLUS) | [面板端项目](https://github.com/MCSMPLUS/WEBPLUS) | [网页前端项目](https://github.com/MCSMPLUS/UIPLUS) | [守护进程项目](https://github.com/MCSMPLUS/DaemonPLUS)
 
 <br />
 
 ## 软件简介
 
 **分布式，稳定可靠，开箱即用，高扩展性，支持 Minecraft 和其他少数游戏的控制面板。**
+
+> Powered by MCSM
 
 MCSManagerPlus 面板（简称：MCSM+ 面板）是一款更好的全中文，轻量级，开箱即用，多实例和支持 Docker 的 Minecraft 服务端管理面板+。
 
